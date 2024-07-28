@@ -10,7 +10,7 @@ class Bot(Client):
 
     def __init__(self):
         super().__init__(
-            name="FileToLinkBot",
+            name="FileToLinkmikeyy",
             api_id=API_ID,
             api_hash=API_HASH,
             bot_token=BOT_TOKEN,
